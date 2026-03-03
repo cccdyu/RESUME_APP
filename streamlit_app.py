@@ -85,3 +85,6 @@ with col2:
 
 st.divider()
 st.info("Use the sidebar filters to update the resume content and chart.")
+
+st.divider()
+st.caption("Reference: Streamlit Cheat Sheet — https://docs.streamlit.io/library/cheatsheet")
