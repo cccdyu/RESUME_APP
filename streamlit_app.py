@@ -6,8 +6,8 @@ st.set_page_config(page_title="Interactive Resume", page_icon="📄", layout="wi
 # ====== EDIT THESE WITH YOUR REAL INFO ======
 NAME = "Cindy Xu"
 TITLE = "Finance + Analytics | Risk | Treasury"
-EMAIL = "your.email@example.com"
-LINKEDIN = "https://www.linkedin.com/in/yourprofile"
+EMAIL = "cindy.lx.xu@gmail.com"
+LINKEDIN = "www.linkedin.com/in/cindy-lx-xu"
 SUMMARY = """
 I build practical analytics for finance (risk, treasury, and data-driven projects).
 I enjoy turning messy data into clear decisions with dashboards, models, and automation.
